@@ -9,13 +9,12 @@ import SwiftUI
 
 @main
 struct budgetKeeperSUIApp: App {
-    @StateObject private var accountsRepository = AccountsRepository()
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environmentObject(AccountsRepository())
-                
+            let repo = AccountsRepository(db: MockAccountDatabase.shared)
+            let vm = AccountViewModel(repository: repo)
+            AccountListView(viewModel: vm)
         }
     }
 }

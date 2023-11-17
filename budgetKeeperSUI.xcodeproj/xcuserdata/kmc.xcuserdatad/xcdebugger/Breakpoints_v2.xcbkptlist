@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13663940-93F5-475B-835A-457C79100E1F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8EC3AD7-94EE-48B5-B7FE-8F73E79076EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "budgetKeeperSUI/Ui/AccountsListView/AccountsListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "loadAccountList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "476E2ECE-5481-48ED-B640-2D5F9E131DB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "budgetKeeperSUI/View/AccountsListView/AccountListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "476E2ECE-5481-48ED-B640-2D5F9E131DB9 - 4dbf6808a3a79aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in budgetKeeperSUI.AccountListView.body.getter : some"
+                  moduleName = "budgetKeeperSUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kmc/Developer/BudgetKeeperSUI/budgetKeeperSUI/View/AccountsListView/AccountListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "476E2ECE-5481-48ED-B640-2D5F9E131DB9 - 12052db95b44d1bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in budgetKeeperSUI.AccountListView.body.getter : some"
+                  moduleName = "budgetKeeperSUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kmc/Developer/BudgetKeeperSUI/budgetKeeperSUI/View/AccountsListView/AccountListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "476E2ECE-5481-48ED-B640-2D5F9E131DB9 - 2246107cb96fb428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in budgetKeeperSUI.AccountListView.body.getter : some"
+                  moduleName = "budgetKeeperSUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kmc/Developer/BudgetKeeperSUI/budgetKeeperSUI/View/AccountsListView/AccountListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "476E2ECE-5481-48ED-B640-2D5F9E131DB9 - c846628102e791b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in budgetKeeperSUI.AccountListView.body.getter : some"
+                  moduleName = "budgetKeeperSUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kmc/Developer/BudgetKeeperSUI/budgetKeeperSUI/View/AccountsListView/AccountListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
